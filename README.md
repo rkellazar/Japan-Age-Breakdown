@@ -1,7 +1,5 @@
 # Japan-Birth-Rate
 
-**[In Progress]**
-
 ![japan](images/japan.png)
 
 Source of the Dataset: https://www.macrotrends.net/countries/JPN/japan/birth-rate
@@ -16,4 +14,19 @@ Japan is a country with a rich cultural heritage and a rapidly aging population,
 
 ![japan population](charts/db_growth_birth.png)
 
-- The overall birth rate in Japan has been declining since the 1970s, with a particularly steep decline in the 2000s. This trend is reflected in both the total number of births and the birth rate per 1000 people.
+ 1. The birth rate has been steadily declining since the 1950s, with a slight uptick in the late 1990s to early 2000s before resuming its decline.
+ 2. The growth rate has also been steadily declining over time, with some fluctuations in the late 1970s and early 1980s and a significant decrease in the late 1990s.
+ 3. The most recent data shows a negative growth rate, indicating that the population is declining. This could have implications for the future of the country, including its workforce, economy, and social systems.
+ 
+ ## Recommendation
+ 
+ Some factors that are worth investigating for Japan's declining population include:
+ 
+ 1. **Aging population:** An aging population means that there are fewer young people in the population, which can lead to a decrease in birth rates and a decline in the overall population.
+ 2. **Low birth rates:** Low birth rates can be caused by a number of factors, such as high costs of raising children, a lack of family-friendly policies, and social norms that discourage having children.
+ 3. **Migration:** High levels of emigration can lead to a decline in the population, especially if the emigrants are young and a of childbearing age.
+ 4. **Low immigration:** Low levels of immigration can also contribute to a declining population, as there are fewer new people coming into the country to replace those who are aging or emigrating.
+ 5. **Economic factors:** Economic factors, such as high unemployment rates or low economic growth, can lead to a decline in the population as people move to other ares in search of better job opportunities.
+ 6. **Health issues:** Health issues such as high infant mortality rates, poor healthcare infrastructure, and high rates of disease can contribute to a declining population.
+
+By investigating these factors, policymakers can identify the underlying causes of the declining population and develop targeted policies and interventions to address them.
